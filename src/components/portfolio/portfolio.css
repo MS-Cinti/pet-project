@@ -52,6 +52,13 @@
     }
 }
 
+@media screen and (max-width: 1980px) {
+
+    .portfolio-item h3{
+        font-size: 33px;
+    }
+}
+
 @media screen and (max-width: 1440px) {
 
     .portfolio-item h3{
