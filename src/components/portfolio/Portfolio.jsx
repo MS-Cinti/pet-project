@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import NASAIMG from '../../imagesAndFiles/portfolio.jpg'
-import PROFIMG from '../../imagesAndFiles/prof-editor-img.jpeg'
-import PETIMG from '../../imagesAndFiles/pet-pr-img.jpeg' 
+import NASAIMG from '../../imagesAndFiles/nasa-project-img.png'
+import PROFIMG from '../../imagesAndFiles/prof-editor-img.png'
+import PETIMG from '../../imagesAndFiles/pet-pr-img.png' 
 
 const Portfolio = () => {
   return (
