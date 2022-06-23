@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pet-project/static/css/main.16bf1927.css",
-    "main.js": "/pet-project/static/js/main.98999037.js",
+    "main.css": "/pet-project/static/css/main.4bd1e964.css",
+    "main.js": "/pet-project/static/js/main.8b361deb.js",
+    "static/media/prof-editor-img.png": "/pet-project/static/media/prof-editor-img.39726fed2ad6d81cf0f2.png",
     "static/media/me2.jpg": "/pet-project/static/media/me2.52a62ce7c53590910fa7.jpg",
-    "static/media/prof-editor-img.jpeg": "/pet-project/static/media/prof-editor-img.3d25e7ec7214604706c3.jpeg",
-    "static/media/portfolio.jpg": "/pet-project/static/media/portfolio.b0e9e281229703afa5fb.jpg",
+    "static/media/nasa-project-img.png": "/pet-project/static/media/nasa-project-img.4a1fba19dcf73da40bc6.png",
+    "static/media/pet-pr-img.png": "/pet-project/static/media/pet-pr-img.8e4bd1d51466a2784997.png",
     "static/media/cintiaMuraiSzabadiCv.pdf": "/pet-project/static/media/cintiaMuraiSzabadiCv.b10d02c6501bfbe5b71d.pdf",
-    "static/media/pet-pr-img.jpeg": "/pet-project/static/media/pet-pr-img.c48baaf97bb0c17ab512.jpeg",
     "index.html": "/pet-project/index.html",
-    "main.16bf1927.css.map": "/pet-project/static/css/main.16bf1927.css.map",
-    "main.98999037.js.map": "/pet-project/static/js/main.98999037.js.map"
+    "main.4bd1e964.css.map": "/pet-project/static/css/main.4bd1e964.css.map",
+    "main.8b361deb.js.map": "/pet-project/static/js/main.8b361deb.js.map"
   },
   "entrypoints": [
-    "static/css/main.16bf1927.css",
-    "static/js/main.98999037.js"
+    "static/css/main.4bd1e964.css",
+    "static/js/main.8b361deb.js"
   ]
 }
