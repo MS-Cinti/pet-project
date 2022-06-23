@@ -29,7 +29,7 @@
 
 .portfolio-p{
     transform: translate(0, 10%);
-    height: 9rem;
+    height: 190px;
     padding: 0 0 1rem;
     margin-bottom: 2rem;
 }
@@ -42,6 +42,21 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    transform: translate(0, 5%);
+}
+
+@media screen and (max-width: 3840px) {
+
+    .portfolio-item h3{
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .portfolio-item h3{
+        font-size: 30px;
+    }
 }
 
 @media screen and (max-width: 1024px) {
@@ -53,6 +68,10 @@
     .portfolio-container{
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
+    }
+
+    .portfolio-item h3{
+        font-size: 35px;
     }
 }
 
