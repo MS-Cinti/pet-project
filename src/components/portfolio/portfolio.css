@@ -27,7 +27,14 @@
     color: var(--color-primary-variant);
 }
 
-.portfolio-item p{
+.portfolio-p{
+    transform: translate(0, 10%);
+    height: 9rem;
+    padding: 0 0 1rem;
+    margin-bottom: 2rem;
+}
+
+.portfolio-p p{
     margin: 1.2rem 0 1rem;
 }
 
