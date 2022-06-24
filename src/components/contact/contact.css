@@ -70,7 +70,7 @@
 
 @media screen and (max-width: 1440px) {
     .contact-item{
-        height: 16vh;
+        height: 19vh;
         width: 28vw;
         transform: translate(-25%, 0%);
     }
@@ -97,7 +97,7 @@
 @media screen and (max-width: 768px) {
 
     .contact-item{
-        height: 15vh;
+        height: 19vh;
         width: 42vw;
         transform: translate(-38%, 0%);
     }
@@ -115,7 +115,6 @@
     }
 
     .contact-item{
-        height: 15vh;
         width: 80vw;
         transform: translate(-15%, 0%);
     }
@@ -124,7 +123,6 @@
 @media screen and (max-width: 320px) {
 
     .contact-item{
-        height: 15vh;
         width: 90vw;
         transform: translate(-20%, 0%);
     }
