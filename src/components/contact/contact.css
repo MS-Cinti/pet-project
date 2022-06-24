@@ -14,7 +14,7 @@
 .contact-item{
     background-color: rgba(164, 127, 124, 0.678);
     padding: 1vh;
-    height: 19vh;
+    height: 20vh;
     width: 20vw;
     border-radius: 1.2rem;
     text-align: center;
@@ -27,7 +27,7 @@
 }
 
 .contact-item h5{
-    height: 25%;
+    height: 42%;
 }
 
 .contact-item:hover{
@@ -43,7 +43,7 @@
 .contact-item a{
     margin-top: 0.7rem;
     display: inline-block;
-    height: 15%;
+    height: 10%;
     font-size: 0.8rem;
 }
 
@@ -57,7 +57,7 @@
     }
     
     .contact-item{
-        height: 19vh;
+        height: 20vh;
     }
 }
 
@@ -74,6 +74,11 @@
         width: 28vw;
         transform: translate(-25%, 0%);
     }
+
+    .contact-item h5{
+        height: 35%;
+    }
+    
 }
 
 @media screen and (max-width: 1024px) {
@@ -83,7 +88,7 @@
     }
 
     .contact-item{
-        height: 15vh;
+        height: 20vh;
         width: 32vw;
         transform: translate(-15%, 0%);
     }
