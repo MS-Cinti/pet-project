@@ -70,7 +70,7 @@
 @media screen and (max-width: 768px) {
 
     #portfolio{
-        margin-top: 15rem;
+        margin-top: 10rem;
     }
 
     .portfolio-item h3{
@@ -86,7 +86,7 @@
 @media screen and (max-width: 600px) {
 
     #portfolio{
-        margin-top: 8rem;
+        margin-top: 5rem;
     }
 
     .portfolio-container{

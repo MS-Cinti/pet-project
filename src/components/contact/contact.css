@@ -48,6 +48,14 @@
     }
 }
 
+@media screen and (max-width: 1980px){
+
+    .contact-item{
+        height: 14vw;
+    }
+
+}
+
 @media screen and (max-width: 1440px) {
     .contact-item{
         height: 15vw;
