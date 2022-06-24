@@ -22,10 +22,14 @@
     transition: var(--transition);
 }
 
-/* .contact-items h4{
-    font-size: 1.5vw;
+.contact-item h4{
+    height: 25%;
 }
- */
+
+.contact-item h5{
+    height: 25%;
+}
+
 .contact-item:hover{
     background-color: transparent;
     border-color: var(--color-primary-variant);
@@ -39,6 +43,7 @@
 .contact-item a{
     margin-top: 0.7rem;
     display: inline-block;
+    height: 15%;
     font-size: 0.8rem;
 }
 
