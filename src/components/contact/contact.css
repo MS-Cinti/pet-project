@@ -58,8 +58,9 @@
 
 @media screen and (max-width: 1440px) {
     .contact-item{
-        height: 15vw;
-        width: 23vw;
+        height: 20vw;
+        width: 28vw;
+        transform: translate(-25%, 0%);
     }
 }
 
@@ -79,9 +80,9 @@
 @media screen and (max-width: 768px) {
 
     .contact-item{
-        height: 30vw;
-        width: 40vw;
-        transform: translate(-37%, 0%);
+        height: 35vw;
+        width: 42vw;
+        transform: translate(-38%, 0%);
     }
 }
 
