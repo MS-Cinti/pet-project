@@ -15,7 +15,8 @@ const About = () => {
 
         <div className='about-content'>
           <h2>About me</h2>
-          <p>I was graduated as teacher but after a couple of years I decided to change my career. I was part of Codecool's program during this year, where I became an enthusiast and motivated Front-end developer. Now, I see my future in web-development.
+          <p>I graduated as a teacher but after a couple of years, I decided to change my career. I completed Codecool's program this year, where I became an enthusiastic and motivated Front-end developer. 
+          Now, I see my future in web-development.
           </p>
         </div>
       </div>

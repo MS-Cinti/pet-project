@@ -23,15 +23,14 @@
 }
 
 .portfolio-item h3{
+    font-size: 1.7vw;
+    height: 3vw;
     margin: 1.2rem 0 0.2rem;
     color: var(--color-primary-variant);
 }
 
 .portfolio-p{
-    transform: translate(0, 10%);
-    height: 190px;
-    padding: 0 0 1rem;
-    margin-bottom: 2rem;
+    height: 240px;
 }
 
 .portfolio-p p{
@@ -41,35 +40,20 @@
 .portfolio-item-cta{
     display: flex;
     gap: 1rem;
-    margin-bottom: 1rem;
-    transform: translate(0, 5%);
-}
-
-@media screen and (max-width: 3840px) {
-
-    .portfolio-item h3{
-        font-size: 45px;
-    }
+    height: auto;
 }
 
 @media screen and (max-width: 1980px) {
 
     .portfolio-item h3{
-        font-size: 33px;
-    }
-}
-
-@media screen and (max-width: 1440px) {
-
-    .portfolio-item h3{
-        font-size: 30px;
+        font-size: 2vw;
     }
 }
 
 @media screen and (max-width: 1024px) {
     
     #portfolio{
-        margin-top: 22rem;
+        margin-top: 18rem;
     }
 
     .portfolio-container{
@@ -78,18 +62,40 @@
     }
 
     .portfolio-item h3{
-        font-size: 35px;
+        height: 6vw;
+        font-size: 3.5vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #portfolio{
+        margin-top: 15rem;
+    }
+
+    .portfolio-item h3{
+        height: 15vw;
+        font-size: 4.5vw;
+    }
+
+    .portfolio-p{
+        height: 200px;
     }
 }
 
 @media screen and (max-width: 600px) {
 
     #portfolio{
-        margin-top: 17rem;
+        margin-top: 8rem;
     }
 
     .portfolio-container{
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .portfolio-item h3{
+        height: 27vw;
+        font-size: 9vw;
     }
 }
