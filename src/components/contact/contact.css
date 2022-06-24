@@ -14,7 +14,7 @@
 .contact-item{
     background-color: rgba(164, 127, 124, 0.678);
     padding: 1.2rem;
-    height: 11vw;
+    height: 22vh;
     width: 20vw;
     border-radius: 1.2rem;
     text-align: center;
@@ -46,19 +46,22 @@
     #contact{
         margin-bottom: 10rem;
     }
+    
+    .contact-item{
+        height: 17vh;
+    }
 }
 
 @media screen and (max-width: 1980px){
 
     .contact-item{
-        height: 14vw;
+        height: 15vh;
     }
-
 }
 
 @media screen and (max-width: 1440px) {
     .contact-item{
-        height: 20vw;
+        height: 16vh;
         width: 28vw;
         transform: translate(-25%, 0%);
     }
@@ -71,8 +74,8 @@
     }
 
     .contact-item{
-        height: 24vw;
-        width: 30vw;
+        height: 15vh;
+        width: 32vw;
         transform: translate(-15%, 0%);
     }
 }
@@ -80,7 +83,7 @@
 @media screen and (max-width: 768px) {
 
     .contact-item{
-        height: 35vw;
+        height: 15vh;
         width: 42vw;
         transform: translate(-38%, 0%);
     }
@@ -94,10 +97,11 @@
 
     .contact-items{
         grid-template-columns: auto;
+        gap: 1vh;
     }
 
     .contact-item{
-        height: 55vw;
+        height: 15vh;
         width: 80vw;
         transform: translate(-15%, 0%);
     }
@@ -106,7 +110,7 @@
 @media screen and (max-width: 320px) {
 
     .contact-item{
-        height: 65vw;
+        height: 15vh;
         width: 90vw;
         transform: translate(-20%, 0%);
     }
