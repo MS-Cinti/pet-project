@@ -13,8 +13,8 @@
 
 .contact-item{
     background-color: rgba(164, 127, 124, 0.678);
-    padding: 1.2rem;
-    height: 22vh;
+    padding: 1vh;
+    height: 19vh;
     width: 20vw;
     border-radius: 1.2rem;
     text-align: center;
@@ -22,6 +22,10 @@
     transition: var(--transition);
 }
 
+/* .contact-items h4{
+    font-size: 1.5vw;
+}
+ */
 .contact-item:hover{
     background-color: transparent;
     border-color: var(--color-primary-variant);
@@ -48,7 +52,7 @@
     }
     
     .contact-item{
-        height: 17vh;
+        height: 19vh;
     }
 }
 
