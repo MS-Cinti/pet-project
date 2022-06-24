@@ -74,7 +74,7 @@
     }
 
     .portfolio-item h3{
-        height: 10vh;
+        height: 11vh;
         font-size: 4.5vw;
     }
 
@@ -86,7 +86,7 @@
 @media screen and (max-width: 600px) {
 
     #portfolio{
-        margin-top: 5vw;
+        margin-top: 40vw;
     }
 
     .portfolio-container{
