@@ -47,7 +47,7 @@ const Portfolio = () => {
             <p>Here you can see the code of this website.</p>
           </div>
           <div className="portfolio-item-cta">
-            <a href="https://github.com/MS-Cinti/my-pet-project" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/MS-Cinti/pet-project" className='btn' target='_blank' rel="noreferrer">Github</a>
           </div>
         </article>
       </div>
